@@ -1,0 +1,24 @@
+#human, #computer, #x_side, #o_side {
+    border-radius: 0.3em;
+    color: #333;
+    cursor: pointer;
+    font-size: 50px;
+    font-weight: '800';
+    width: auto;
+    height: auto;
+    outline:none;
+}
+#new, #restart {
+    border-radius: 1em;
+    color: #333;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: '800';
+    text-align: center;
+    height: 50px;
+    outline:none;
+}
+.scr {
+    max-width: 420px;
+    text-align: center;
+}
